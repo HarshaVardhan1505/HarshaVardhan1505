@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Harshavardhanaeity@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WQy6gsvHA_ADE4NaQkZ0B02-j_b8Ajc0/view?usp=sharing](https://drive.google.com/file/d/1WQy6gsvHA_ADE4NaQkZ0B02-j_b8Ajc0/view?usp=sharing)
+- 📄 Know about my experiences [Click To Download my Resume](https://drive.google.com/file/d/1WQy6gsvHA_ADE4NaQkZ0B02-j_b8Ajc0/view?usp=sharing)
 
 - ⚡ Fun fact **I have a knack for spotting patterns in data, and I love solving puzzles in my free time!**
 
