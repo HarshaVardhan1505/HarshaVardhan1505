@@ -8,6 +8,8 @@
 - 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **Harshavardhanaeity@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [https://harshavardhan1505.github.io/Harshavardhan-Portfolio/](https://harshavardhan1505.github.io/Harshavardhan-Portfolio/)
 
 - 📄 Know about my experiences [Click Here To Download my Resume](https://drive.google.com/file/d/1WQy6gsvHA_ADE4NaQkZ0B02-j_b8Ajc0/view?usp=sharing)
 
