@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<p align="center">
+  <img src="https://res.cloudinary.com/dfwxtlwwp/image/upload/v1732433485/Picsart_24-11-24_12-57-29-204_pziijf.jpg" alt="harshavardhan" width="700" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhan1505&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhan1505" /> </p>
 
