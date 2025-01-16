@@ -13,7 +13,7 @@
   
 - 👨‍💻 All of my projects are available at [My Portfolio](https://harshavardhan1505.github.io/Harshavardhan-Portfolio/)
 
-- 📄 Know about my experiences [Click Here For My Resume](https://drive.google.com/file/d/126oqR-3X02GLJULSyGbmQjFRDEY516Wu/view?usp=sharing)
+- 📄 Know about my experiences [Click Here For My Resume](https://drive.google.com/file/d/1UkN6B7IUx95iVKG4Wh6wjUvf8OZBj18h/view?usp=drive_link)
 
 - ⚡ Fun fact **I have a knack for spotting patterns in data, and I love solving puzzles in my free time!**
 <h3 align="left">Programming Languages:</h3>
