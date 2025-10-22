@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Harshavardhanaeity@gmail.com**
   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://harshavardhan1505.github.io/Portfolio-of-Harshavardhan/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://harshavardhan1505.github.io/Harshavardhan-Portfolio/)
 
 - 📄 Know about my experiences [Click Here For My Resume](https://drive.google.com/file/d/1UkN6B7IUx95iVKG4Wh6wjUvf8OZBj18h/view?usp=drive_link)
 
